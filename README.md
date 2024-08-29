@@ -1,2 +1,2 @@
 # learn
-A repo to initialize the learning process. LoL.
+A repo to initialize the learning process. LoL...
